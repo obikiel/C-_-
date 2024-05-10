@@ -1,0 +1,27 @@
+table {
+    background-color: rgba(255, 255, 255, 0.899);
+    color:black;
+    width: 600px;
+    height: 500px;
+    margin: 10px 10px 10px 10px;
+}
+
+th{
+    color:white;
+    background-color:black;
+    border-radius: 40px;
+}
+.output{
+    width:600px;
+    border: 1px solid black;
+    margin: 10px 10px 10px 10px;
+    height:50px;
+    background-color:rgb(245, 239, 239);
+}
+.background{
+    margin:10%;
+}
+.equal{
+    width:600px;
+    
+}
